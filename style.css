@@ -1,0 +1,102 @@
+body{
+
+    width: auto;
+    height: auto;
+}
+/* index page---start */
+/* navbar styles */
+
+.navbar{
+
+    background-color:rgb(20, 18, 18);
+    color: white;
+}
+
+.navbar ul li {
+
+    display: inline;
+   margin-right: 100px;   
+}
+.navbar h5 {
+
+    margin-left: 100px;
+}
+
+.navbar ul li a{
+    color: white;
+}
+
+
+/* navbar End */
+
+.maine{
+
+    text-align: center;
+    padding-bottom: 130px;
+    padding-top: 150px;
+    background-color: royalblue;
+    color: white;
+}
+
+.maine button{
+
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  
+}
+
+
+.content-part{
+
+   padding-left: 600px;
+   padding-top: 100px;
+   padding-bottom: 327px;
+}
+
+footer{
+
+  
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 0%;
+}
+/* indexpage ---- End */
+
+
+/* Servicepage ----- start */
+.Service-content{
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 60px;
+    /* background-color: royalblue; */
+    margin-top: 200px;
+    margin-bottom: 471px;
+    margin-left: 450px;
+    margin-right: 10px;
+}
+/* Servicepage --- End */
+
+/* 404 page --- start */
+
+.page{
+color: red;
+text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 30px;
+padding-right: 30px;
+/* background-color: royalblue; */
+margin-top: 350px;
+margin-bottom: 363px;
+margin-left: 200px;
+margin-right:200px;
+
+}
+

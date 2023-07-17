@@ -1,0 +1,18 @@
+<div class="maine">
+  <h1>Welcome To Node.js Temlate Engine</h1>
+  <button type="button">This is Hbs</button>
+</div>
+
+<div class="content-part">
+  <h5>{{name}}</h5>
+
+  {{#if coures}}
+    <ul>
+      {{#each coures}}
+        <li>{{this}}</li>
+      {{/each}}
+    </ul>
+  {{else}}
+    <p>No Couresce avilable</p>
+  {{/if}}
+</div>
